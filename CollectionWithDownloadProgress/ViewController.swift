@@ -84,7 +84,6 @@ extension ViewController {
                 cell.isUserInteractionEnabled = true
             }
         }
-        collectionBook.reloadData()
     }
     
 }
